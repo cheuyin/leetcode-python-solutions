@@ -19,6 +19,9 @@
 
 # NeetCode's solution #2
 
+# Time complexity: O(n)
+# Space complexity: O(1)
+
 class Solution:
     def isPalindrome(self, s: str) -> bool:
         l = 0
