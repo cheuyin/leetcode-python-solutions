@@ -1,3 +1,7 @@
+# My solution
+# Time:
+# Space: O(n)
+
 class Solution:
     def countBits(self, n: int) -> List[int]:
         res = []
